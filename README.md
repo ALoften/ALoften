@@ -1,4 +1,4 @@
-# Hey, I'm Aaron! - Im still developing this portfolio. You should not be looking at this yet. Come back tomorrow! :)
+# Hey, I'm Aaron! - Im still developing this portfolio :)
 ## [Web Developer](https://github.com/ALoften) / [Game Developer](https://github.com/ALoften) / [General Dude who does Cool Things](https://github.com/ALoften)
 
 Below I will list some of my main skills and will have links to show a small portion of my working knowledge on these skills.
@@ -10,6 +10,7 @@ If you want to know more about any particular skill Ive listed(or something rela
 ## 💻 Web Development Projects(general things Ive experimented with):
 
 - **[Switch statement with multiple boolean checks](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks)** *(html, js)*
+- **[Prank - Links that run away from the mouse](https://github.com/ALoften/Prank-Link-Runner)** *(html, js, jQuery)*
 <!--
 - **[Basic Image Gallery with Options](https://github.com/ALoften)** *(html, css, js, jQuery)*
 - **[Flex-It Display Framework](https://github.com/ALoften)** *(html, css)*
