@@ -9,8 +9,9 @@ If you want to know more about any particular skill Ive listed(or something rela
 
 ## 💻 Web Development Projects(general things Ive experimented with):
 
-- **[Switch statement with multiple boolean checks](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks)** *(html, js)*
+- **[Experiment - Switch statement with multiple boolean checks](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks)** *(html, js)*
 - **[Prank - Links that run away from the mouse](https://github.com/ALoften/Prank-Link-Runner)** *(html, js, jQuery)*
+- **[Experiment - Drag and drop images to export as svg](https://github.com/ALoften/Prank-Link-Runner)** *(html, js, CSS, jQuery, SVG)*
 <!--
 - **[Basic Image Gallery with Options](https://github.com/ALoften)** *(html, css, js, jQuery)*
 - **[Flex-It Display Framework](https://github.com/ALoften)** *(html, css)*
