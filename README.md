@@ -7,8 +7,10 @@ If you want to know more about any particular skill Ive listed(or something rela
 <br>
 [Email -> aaronloften@gmail.com](mailto:aaronloften@gmail.com) - Please make sure to say "Github" in the subject so I know its not spam
 
-## 💻 Web Development Projects:
+## 💻 Web Development Projects(general things Ive experimented with):
 
+- **[Switch statement with multiple boolean checks]([https://github.com/ALoften](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks))** *(html, js)*
+<!--
 - **[Basic Image Gallery with Options](https://github.com/ALoften)** *(html, css, js, jQuery)*
 - **[Flex-It Display Framework](https://github.com/ALoften)** *(html, css)*
   - **[Flex-It Library](https://github.com/ALoften)** *(html, css)*
@@ -16,8 +18,9 @@ If you want to know more about any particular skill Ive listed(or something rela
 - **[Drag and drop image creator](https://github.com/ALoften)** *(html, css, js, svg/jpg/png)*
   - **[Version with deadzone overlay](https://github.com/ALoften)** *(html, css, js, jQuery)*)*
 - **[Expandable columns on hover](https://github.com/ALoften)** *(html, css)*
+-->
 
-
+<!--
 ## 🎮 Game Development Projects:
 
 - **Unity**
@@ -37,4 +40,4 @@ If you want to know more about any particular skill Ive listed(or something rela
 - **AI**
   - Will fill out later =p
 
-
+-->
