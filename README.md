@@ -9,7 +9,7 @@ If you want to know more about any particular skill Ive listed(or something rela
 
 ## 💻 Web Development Projects(general things Ive experimented with):
 
-- **[Switch statement with multiple boolean checks]([https://github.com/ALoften](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks))** *(html, js)*
+- **[Switch statement with multiple boolean checks](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks)** *(html, js)*
 <!--
 - **[Basic Image Gallery with Options](https://github.com/ALoften)** *(html, css, js, jQuery)*
 - **[Flex-It Display Framework](https://github.com/ALoften)** *(html, css)*
