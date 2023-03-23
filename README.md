@@ -1,4 +1,4 @@
-# Hey, I'm Aaron! - Im still developing this portfolio :)
+# Hey, I'm Aaron!
 ## [Web Developer](https://github.com/ALoften) / [Game Developer](https://github.com/ALoften) / [General Dude who does Cool Things](https://github.com/ALoften)
 
 Below I will list some of my main skills and will have links to show a small portion of my working knowledge on these skills.
@@ -6,6 +6,12 @@ Below I will list some of my main skills and will have links to show a small por
 If you want to know more about any particular skill Ive listed(or something relative that was not mentioned) just email me. :)
 <br>
 [Email -> aaronloften@gmail.com](mailto:aaronloften@gmail.com) - Please make sure to say "Github" in the subject so I know its not spam
+
+<br>
+<i>
+  Understand I am still building out my github portfolio so it only contains some very quick examples of my work.
+  
+</i>
 
 ## 💻 Web Development Projects(general things Ive experimented with):
 
@@ -26,7 +32,7 @@ If you want to know more about any particular skill Ive listed(or something rela
 ## 🎮 Game Development Projects:
 
 - **Unity**
-  - **[Magic Listener - Multiple Audio Listener Solution](https://assetstore.unity.com/packages/tools/audio/magic-listener-multiple-audio-listener-solution-210472)**
+  - **[Magic Listener - Multiple Audio Listener Solution](https://assetstore.unity.com/packages/tools/audio/magic-listener-multiple-audio-listener-solution-210472)** *(c#, manipulation of exposed unity values and components)*
 <!--
   - **["Get That" - A quick way to get object references through nicknames](https://github.com/ALoften)**
   - **[Object Rotator - Rotate toward an object](https://github.com/ALoften)**
