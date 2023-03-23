@@ -12,8 +12,9 @@ If you want to know more about any particular skill Ive listed(or something rela
 - **[Experiment - Switch statement with multiple boolean checks](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks)** *(html, js)*
 - **[Prank - Links that run away from the mouse](https://github.com/ALoften/Prank-Link-Runner)** *(html, js, jQuery)*
 - **[Experiment - Drag and drop images to export as svg](https://github.com/ALoften/drag-and-drop-svg-creator)** *(html, js, CSS, jQuery, SVG)*
+- **[Basic Image Gallery with Options](https://github.com/ALoften/slide-it-gallery)** *(html, css, js, jQuery)*
 <!--
-- **[Basic Image Gallery with Options](https://github.com/ALoften)** *(html, css, js, jQuery)*
+
 - **[Flex-It Display Framework](https://github.com/ALoften)** *(html, css)*
   - **[Flex-It Library](https://github.com/ALoften)** *(html, css)*
   - **[BONUS: Flex-It Page Builder](https://github.com/ALoften)** *(html, css, js)*
@@ -22,10 +23,11 @@ If you want to know more about any particular skill Ive listed(or something rela
 - **[Expandable columns on hover](https://github.com/ALoften)** *(html, css)*
 -->
 
-<!--
 ## 🎮 Game Development Projects:
 
 - **Unity**
+  - **[Magic Listener - Multiple Audio Listener Solution](https://assetstore.unity.com/packages/tools/audio/magic-listener-multiple-audio-listener-solution-210472)**
+<!--
   - **["Get That" - A quick way to get object references through nicknames](https://github.com/ALoften)**
   - **[Object Rotator - Rotate toward an object](https://github.com/ALoften)**
   - **[Sprite Animator - Easily animate a sprite](https://github.com/ALoften)**
