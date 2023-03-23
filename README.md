@@ -1,6 +1,8 @@
 # Hey, I'm Aaron!
-## [Web Developer](https://github.com/ALoften) / [Game Developer](https://github.com/ALoften) / [General Dude who does Cool Things](https://github.com/ALoften)
+## [Web Developer](https://github.com/ALoften) / [Game Developer](https://github.com/ALoften) / [Dude who generally does cool things](https://github.com/ALoften)
 
+The first thing you have to know about me is I like to experiment with code. This sometimes leads to automation, fun code, and new modern techniques usage.
+<br><br>
 Below I will list some of my main skills and will have links to show a small portion of my working knowledge on these skills.
 <br>
 If you want to know more about any particular skill Ive listed(or something relative that was not mentioned) just email me. :)
