@@ -21,6 +21,8 @@ If you want to know more about any particular skill Ive listed(or something rela
 - **[Prank - Links that run away from the mouse](https://github.com/ALoften/Prank-Link-Runner)** *(html, js, jQuery)*
 - **[Experiment - Drag and drop images to export as svg](https://github.com/ALoften/drag-and-drop-svg-creator)** *(html, js, CSS, jQuery, SVG)*
 - **[Basic Image Gallery with Options](https://github.com/ALoften/slide-it-gallery)** *(html, css, js, jQuery)*
+- **[Move object on scroll](https://jsfiddle.net/x_sus/m6cg9jtL/5/)** *(html, css, js, jQuery)*
+
 <!--
 
 - **[Flex-It Display Framework](https://github.com/ALoften)** *(html, css)*
