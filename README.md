@@ -17,6 +17,7 @@ If you want to know more about any particular skill Ive listed(or something rela
 
 ## 💻 Web Development Projects(general things Ive experimented with):
 
+- **[Experiment - Color Blender](https://github.com/ALoften/Color-Blender/tree/main)** *(html, css, js)*
 - **[Experiment - Switch statement with multiple boolean checks](https://github.com/ALoften/Js-switch-with-multiple-boolean-checks)** *(html, js)*
 - **[Prank - Links that run away from the mouse](https://github.com/ALoften/Prank-Link-Runner)** *(html, js, jQuery)*
 - **[Experiment - Drag and drop images to export as svg](https://github.com/ALoften/drag-and-drop-svg-creator)** *(html, js, CSS, jQuery, SVG)*
@@ -37,12 +38,9 @@ If you want to know more about any particular skill Ive listed(or something rela
 
 - **Unity**
   - **[Magic Listener - Multiple Audio Listener Solution](https://assetstore.unity.com/packages/tools/audio/magic-listener-multiple-audio-listener-solution-210472)** *(c#, manipulation of exposed unity values and components)*
+
+  - **["Material Variant" - Create hundreds of material variants without needing new materials. Manage materials, themes, even object visibility based on themes with one easy controller](https://assetstore.unity.com/packages/tools/level-design/material-variant-dynamic-visual-customization-238059)** *(c#, manipulation of exposed unity values and components, Singletons, Minimlistic Programming)*
 <!--
-  - **["Get That" - A quick way to get object references through nicknames](https://github.com/ALoften)**
-  - **[Object Rotator - Rotate toward an object](https://github.com/ALoften)**
-  - **[Sprite Animator - Easily animate a sprite](https://github.com/ALoften)**
-
-
 ## 😎😎😎 Cool Stuff:
 
 - **RaspberryPi Stuff**
