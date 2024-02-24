@@ -36,6 +36,13 @@ If you want to know more about any particular skill Ive listed(or something rela
 
 ## 🎮 Game Development Projects:
 
+
+- **Game Profiles**
+  - **[Itch.io](https://x-sus.itch.io/)** *(Game Jam entries - These are games that created very quickly for contests and generally are lacking quality due to the speed they are created.)*
+
+- **Godot 4**
+  - **[Ten Thousand Burgers!!!](https://x-sus.itch.io/ten-thousand-burgers)** *(gdScript, Placed 47th place of 268 entries)*
+
 - **Unity**
   - **[Magic Listener - Multiple Audio Listener Solution](https://assetstore.unity.com/packages/tools/audio/magic-listener-multiple-audio-listener-solution-210472)** *(c#, manipulation of exposed unity values and components)*
 
