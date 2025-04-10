@@ -43,11 +43,15 @@ If you want to know more about any particular skill Ive listed(or something rela
 
 - **Godot 4**
   - **[Ten Thousand Burgers!!!](https://x-sus.itch.io/ten-thousand-burgers)** *(gdScript, Placed 47th place of 268 entries)*
+  - **[Monster Rush Wave](https://x-sus.itch.io/monster-rush-wave)** *(gdScript)*
+  - **["AnimatedTextureRect" - Create a sprite animation with a control node.](https://github.com/ALoften/Godot_AnimatedTextureRect)** *(gdscript)*
 
 - **Unity**
   - **[Magic Listener - Multiple Audio Listener Solution](https://assetstore.unity.com/packages/tools/audio/magic-listener-multiple-audio-listener-solution-210472)** *(c#, manipulation of exposed unity values and components)*
 
   - **["Material Variant" - Create hundreds of material variants without needing new materials. Manage materials, themes, even object visibility based on themes with one easy controller](https://assetstore.unity.com/packages/tools/level-design/material-variant-dynamic-visual-customization-238059)** *(c#, manipulation of exposed unity values and components, Singletons, Minimlistic Programming)*
+ 
+    
 <!--
 ## 😎😎😎 Cool Stuff:
 
